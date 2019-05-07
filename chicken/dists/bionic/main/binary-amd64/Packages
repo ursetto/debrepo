@@ -1,0 +1,18 @@
+Package: chicken-5.0.0
+Priority: extra
+Section: default
+Installed-Size: 17525
+Maintainer: jim@3e8.org
+Architecture: amd64
+Version: 5.0.0-1
+Filename: pool/main/c/chicken-5.0.0/chicken-5.0.0_5.0.0-1_amd64.deb
+Size: 4639292
+MD5sum: ffd7525e223218e7016c2a9bd813ea14
+SHA1: bf76fbdb77cbe3d9ee02a409463d77831e208037
+SHA256: 0c9bdcb97a00752d0ac110eed89f4ceb5eaf1c60385ef9969d8f51d38f3e6b9e
+SHA512: d66ad440aafb7c0121b8423d383481cae20bbe4326d84d747f14c44485514dff0509d21fe58f4fc4c026622ee7fb68334c4c0b54944fd190928c320996da9b76
+Description: CHICKEN Scheme compiler, runtime and development environment
+Homepage: http://www.call-cc.org
+License: BSD
+Vendor: jim@3e8.org
+

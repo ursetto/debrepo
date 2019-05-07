@@ -1,0 +1,5 @@
+Origin: chicken bionic
+Label: chicken bionic
+Archive: bionic
+Architecture: amd64
+Component: main
